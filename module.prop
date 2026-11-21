@@ -1,0 +1,6 @@
+id=hide_lineage_props
+name=Hide Lineage Props
+version=1.0.0
+versionCode=100
+author=SuspectWorkers
+description=Generic prop sanitizer: cleans lineage/userdebug/dev-keys/test-keys/eng props before zygote starts (vbmeta sync moved to vbmeta_sync).
